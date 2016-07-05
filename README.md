@@ -1,8 +1,15 @@
-# iomet
+# IoMeT - Internet of Medical Things
+
+Read [Wiki](https://github.com/OpenIoMeT/iomet/wiki) for more information about this project.
+
+Use this repository to file, track and discuss the general/management issues of iomet. 
+
+General/Management Discussion Channel
 
 [![Join the chat at https://gitter.im/OpenIoMeT/iomet](https://badges.gitter.im/OpenIoMeT/iomet.svg)](https://gitter.im/OpenIoMeT/iomet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-The major Wiki page which is the entry point for this program. Read Wiki for more information about this project.
 
-Use this Repository to file, track and discuss the general issues of iomet. Feel free to send pull requests. 
+Engineering/Techincal Discussion Channel
 
-Check the issues to involve in the discussion and pull requests. As of now for this repository, pull requests will be for Wiki and README.  
+[![Join the chat at https://gitter.im/OpenIoMeT/](https://badges.gitter.im/OpenIoMeT/iomet.svg)](https://gitter.im/OpenIoMeT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+ 
