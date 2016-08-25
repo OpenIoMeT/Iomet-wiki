@@ -12,4 +12,7 @@ Engineering/Techincal Discussion Channel
 
 [![Join the chat at https://gitter.im/OpenIoMeT/](https://badges.gitter.im/OpenIoMeT/iomet.svg)](https://gitter.im/OpenIoMeT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+Updates Channel
+
+[![Join the chat at https://gitter.im/OpenIoMeT/updates](https://badges.gitter.im/OpenIoMeT/iomet.svg)](https://gitter.im/OpenIoMeT/updates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
